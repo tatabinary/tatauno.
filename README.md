@@ -6,11 +6,11 @@ My personal repository.
 
 - 🌱 I’m currently learning **programming languages and UI/UX designing**
 
-- 📫 How to reach me **janukimovintha03gmail.com**
+- 📫 you can reach me on **janukimovintha03gmail.com**
 
-- ⚡ Fun fact **I'm curious and like to learn new things.**
+- ⚡ Fun fact about me is **I'm curious and like to learn new things.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
