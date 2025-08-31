@@ -1,2 +1,2 @@
-# tatauno.
+# tatabinary.
 My personal repository.
